@@ -1,0 +1,3 @@
+word-sources:
+ - url  : http://www.mieliestronk.com/corncob_lowercase.txt
+   verb : GET
