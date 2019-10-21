@@ -6,7 +6,7 @@ If the phone number/input itself is, or is part of a word, any/all matches are a
 
 If the branch length is less than the length of the phone number/input, any/all matches for the remaining digits are added. This is the case when words/phrases overrun the length of the phone number/input.
 
-##To run
+## To run
 
 `python main.py [phone_number]`
 
