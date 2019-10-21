@@ -1,4 +1,4 @@
-#Phone Trie
+#Phone Trie (This Phone Trie App)
 
 `main.py` gets all words from [here](http://www.mieliestronk.com/corncob_lowercase.txt), loads them all into a marisa trie, then iterates over the phone number/input. The input is iterated in the manner of a radix/prefix trie, getting each level of words/prefixes and continuing on to the next within the bounds of the length of the phone number/input.
 
