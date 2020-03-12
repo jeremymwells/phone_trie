@@ -1,4 +1,4 @@
 PyYAML==3.11
 marisa-trie==0.7.2
-psutil==3.4.1
+psutil==5.6.6
 urllib3==1.14
